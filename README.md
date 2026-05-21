@@ -1,116 +1,99 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sanskriti%20Tiwari&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=CS%20Student%20%40%20UT%20Dallas%20%7C%20ML%20%26%20AI%20Enthusiast&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020918,30:03045e,70:0077b6,100:00b4d8&height=210&section=header&text=Sanskriti%20Tiwari&fontSize=46&fontColor=00e5ff&animation=fadeIn&fontAlignY=36&desc=CS%20Student%20%40%20UT%20Dallas%20%7C%20ML%20%26%20AI%20Engineer&descAlignY=58&descSize=17&descColor=90e0ef"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=550&lines=Teaching+machines+to+see+👁️;Building+AI+that+actually+works+🤖;Turning+data+into+decisions+📊;Yes%2C+I+wrote+a+game+in+Assembly+🕹️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=560&lines=%F0%9F%8C%8A+Diving+deep+into+Computer+Vision;%F0%9F%A4%96+Training+neural+nets+at+300m+depth;%F0%9F%94%AC+Surfacing+insights+from+raw+data;%F0%9F%91%81%EF%B8%8F+Real-time+face+detection%2C+real-time+impact;%F0%9F%AA%B8+Yes+I+coded+a+game+in+MIPS+Assembly)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🤿 Diver's Log
 
 ```python
 class Sanskriti:
-    def __init__(self):
-        self.name        = "Sanskriti Tiwari"
-        self.school      = "University of Texas at Dallas 🤠"
-        self.major       = "Computer Science"
-        self.role        = "Aspiring ML / AI Engineer"
-        self.focus       = ["Computer Vision", "NLP", "Predictive Modeling"]
-        self.learning    = ["Transformers", "Diffusion Models", "MLOps"]
-        self.superpower  = "I once wrote a game in MIPS Assembly 🕹️ (yes, real Assembly)"
-    
-    def say_hi(self):
-        print("Let's build something intelligent together! 🚀")
-
-me = Sanskriti()
-me.say_hi()
+    coordinates = "University of Texas at Dallas 🤠"
+    mission     = "Aspiring ML / AI Engineer"
+    sonar_ping  = ["Computer Vision", "NLP", "Predictive Modeling", "Deep Learning"]
+    exploring   = ["Transformers", "Diffusion Models", "MLOps"]
+    legendary   = "Built a fully playable game in MIPS Assembly 🕹️"
 ```
 
 ---
 
-## 🛠️ Tech Stack
-
-**🤖 AI & Machine Learning**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white)
-
-**💻 Development**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
-
-**🔧 Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|--------|-------------|-------|
-| [🎭 ACM Facial Detection System](https://github.com/sans-2186/ACM-Facial-Detection-System) | Real-time face recognition + automated attendance tracking with live webcam feed | Python · OpenCV · dlib · Node.js · SQLite |
-| [🏃 Athlete Injury Prediction](https://github.com/sans-2186/Athlete-Injury-Prediction-Model) | ML model that predicts injury risk for athletes before it happens | Python · scikit-learn · Pandas |
-| [🖼️ Image Classification](https://github.com/sans-2186/Image-Classification) | Deep learning CNN classifier trained to identify image categories | Python · TensorFlow · Keras |
-| [🎬 Movie Sentiment Analyzer](https://github.com/sans-2186/Movies-Review-Sentimental-Analysis-App) | NLP app that reads the room — tells you if a review is 🔥 or 💀 | Python · NLTK · scikit-learn |
-| [🐾 WhiskerWorld](https://github.com/sans-2186/WhiskerWorld-Where-pets-find-love) | Full-stack pet adoption platform — where pets find their people | Python |
-| [🕹️ MIPS Black Hole Game](https://github.com/sans-2186/MIPS-Black-Hole-Game) | A fully playable game written in MIPS Assembly (yes, for real) | MIPS Assembly |
-
----
-
-## 📊 GitHub Stats
+## 🗺️ Tech Ecosystem
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sans-2186&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sans-2186&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sans-2186&theme=tokyonight&hide_border=true" height="170"/>
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,numpy,js,nodejs,html,sqlite,git,linux&theme=dark)](https://skillicons.dev)
+
 </div>
 
 ---
 
-## 📬 Let's Connect
+## 📊 The Deep Data
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.sanskriti-tiwari.com/)
+<img src="https://github-readme-stats.vercel.app/api?username=sans-2186&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=020918&title_color=00e5ff&icon_color=00b4d8&text_color=caf0f8" height="175"/>
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskriti-tiwari-ab300030b/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanskriti_tiwari2186@hotmail.com)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sans-2186&layout=donut&hide_border=true&bg_color=020918&title_color=00e5ff&text_color=caf0f8&langs_count=5" height="175"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=sans-2186&hide_border=true&background=020918&ring=00e5ff&fire=00b4d8&currStreakLabel=00e5ff&sideNums=caf0f8&sideLabels=90e0ef&dates=48cae4&stroke=0077b6" height="175"/>
+
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sans-2186&theme=tokyo-night&hide_border=true&bg_color=020918&color=00e5ff&line=00b4d8&point=caf0f8&area=true"/>
+
+---
+
+## 🏆 Expedition Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sans-2186&theme=darkhub&column=6&margin-w=6&margin-h=6&no-bg=true"/>
 
 </div>
 
 ---
 
+## 🐙 Deep Dive Log
+
+| Depth | Project | Sonar Reading | Stack |
+|-------|---------|---------------|-------|
+| `▼ 500m` | [🎭 ACM Facial Detection System](https://github.com/sans-2186/ACM-Facial-Detection-System) | Real-time face recognition + automated attendance tracking | Python · OpenCV · dlib · Node.js · SQLite |
+| `▼ 400m` | [🏃 Athlete Injury Prediction](https://github.com/sans-2186/Athlete-Injury-Prediction-Model) | ML model predicting injury risk before it happens | Python · scikit-learn · Pandas |
+| `▼ 300m` | [🖼️ Image Classification](https://github.com/sans-2186/Image-Classification) | Deep learning CNN image classifier | Python · TensorFlow · Keras |
+| `▼ 200m` | [🎬 Movie Sentiment Analyzer](https://github.com/sans-2186/Movies-Review-Sentimental-Analysis-App) | NLP sentiment engine — is this review 🔥 or 💀? | Python · NLTK · scikit-learn |
+| `▼ 100m` | [🐾 WhiskerWorld](https://github.com/sans-2186/WhiskerWorld-Where-pets-find-love) | Full-stack pet adoption platform | Python |
+| `▼  50m` | [🕹️ MIPS Black Hole Game](https://github.com/sans-2186/MIPS-Black-Hole-Game) | A fully playable game in pure Assembly (legendary) | MIPS Assembly |
+
+---
+
+## 📡 Surface Contact
+
 <div align="center">
 
-*"The goal is to turn data into information, and information into insight."* — Carly Fiorina
+[![Portfolio](https://img.shields.io/badge/Portfolio-020918?style=for-the-badge&logo=vercel&logoColor=00e5ff)](https://www.sanskriti-tiwari.com/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-020918?style=for-the-badge&logo=linkedin&logoColor=00e5ff)](https://www.linkedin.com/in/sanskriti-tiwari-ab300030b/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-020918?style=for-the-badge&logo=microsoft-outlook&logoColor=00e5ff)](mailto:sanskriti_tiwari2186@hotmail.com)
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+*"The goal is to turn data into information, and information into insight."*
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0077b6,100:020918&height=100&section=footer"/>
