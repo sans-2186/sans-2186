@@ -2,7 +2,7 @@
 
 <!-- ============ HEADER BANNER ============ -->
 <p align="center">
-  <img src="github-header-cherry-blossom.png" alt="Sanskriti Tiwari — CS @ UT Dallas · ML & AI" width="100%" />
+  <img src="assets/github-header-cherry-blossom.png" alt="Sanskriti Tiwari — CS @ UT Dallas · ML & AI" width="100%" />
 </p>
 
 <div align="center">
@@ -80,8 +80,8 @@ class Sanskriti:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/sans-2186?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=AI-201&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
+      <a href="https://github.com/sans-2186/AI-201-Coursework">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=AI-201-Coursework&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -123,6 +123,8 @@ class Sanskriti:
 
 - 🕳️ **[MIPS Black Hole Game](https://github.com/sans-2186/MIPS-Black-Hole-Game)** — a game written in MIPS assembly. Low-level, all the way down.
 - 🐾 **[WhiskerWorld — Where pets find love](https://github.com/sans-2186/WhiskerWorld-Where-pets-find-love)** — a pet-adoption platform built in Python.
+- ✈️ **[Airline Fare Calculator](https://github.com/sans-2186/Airline-fare-calculator)** — fare-computation utility.
+- 🌐 **[Portfolio Site](https://github.com/sans-2186/sanskriti-portfolio)** — my personal portfolio.
 
 </details>
 
@@ -131,26 +133,23 @@ class Sanskriti:
 ## 🏆 Hackathons
 
 <table>
-<tr>
-<td width="33%" valign="top" align="center">
-
-### 📡 [Signal — YHack](https://github.com/sans-2186?tab=repositories)
-Built at **YHack** (Yale). A signal-driven app prototyped over the hackathon weekend.
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 💼 [GS Hackathon](https://github.com/sans-2186?tab=repositories)
-**Goldman Sachs** hackathon — tackled a fintech / data challenge under time pressure.
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### ⚙️ [UNT NSBE Hackathon](https://github.com/sans-2186?tab=repositories)
-**NSBE** hackathon at UNT — collaborative build focused on impact and engineering.
-
-</td>
-</tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/sans-2186/YHack-26-Signal">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=YHack-26-Signal&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/sans-2186/GS-Hackathon-2026">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=GS-Hackathon-2026&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/sans-2186/UNT-NSBE-Hackathon-2025">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=UNT-NSBE-Hackathon-2025&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -164,7 +163,6 @@ Built at **YHack** (Yale). A signal-driven app prototyped over the hackathon wee
 
 <br/><br/>
 
-<!-- ✅ Use streak-stats.demolab.com — the old heroku URL is deprecated and won't render -->
 <img src="https://streak-stats.demolab.com?user=sans-2186&hide_border=true&background=0d1117&stroke=30363d&ring=FF4D6D&fire=FF8FAB&currStreakLabel=FF4D6D&sideLabels=c9d1d9&currStreakNum=f0f6fc&sideNums=f0f6fc&dates=8b949e" />
 
 <br/><br/>
@@ -195,5 +193,5 @@ Built at **YHack** (Yale). A signal-driven app prototyped over the hackathon wee
 
 <!-- ============ FOOTER BANNER ============ -->
 <p align="center">
-  <img src="github-footer-cherry-blossom.png" alt="🌸" width="100%" />
+  <img src="assets/github-footer-cherry-blossom.png" alt="🌸" width="100%" />
 </p>
