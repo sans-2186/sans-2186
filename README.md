@@ -1,11 +1,14 @@
 <!-- 🌸 sans-2186 — GitHub Profile README 🌸 -->
-<!-- Paste this file into a repo named exactly "sans-2186" to show it on your profile. -->
+
+<!-- ============ HEADER BANNER ============ -->
+<p align="center">
+  <img src="github-header-cherry-blossom.png" alt="Sanskriti Tiwari — CS @ UT Dallas · ML & AI" width="100%" />
+</p>
 
 <div align="center">
 
-<!-- ⬇️ Animated typing headline (cherry-blossom themed) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=FF4D6D&center=true&vCenter=true&width=650&height=70&lines=Hi%2C+I'm+Sanskriti+Tiwari+%F0%9F%8C%B8;CS+Student+%40+UT+Dallas;Machine+Learning+%26+AI+Enthusiast;Turning+data+into+decisions." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=34&pause=1000&color=C9184A&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Sanskriti+Tiwari+%F0%9F%8C%B8;CS+Student+%40+UT+Dallas;Machine+Learning+%26+AI+Enthusiast;Turning+data+into+decisions." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -37,7 +40,6 @@ class Sanskriti:
 - 🧠 I like the whole pipeline — from raw data and Jupyter notebooks to models that ship.
 - 🌱 Currently deep in **deep learning, NLP, and quantitative systems**.
 - 💬 Ask me about **Python, machine learning, computer vision, or SQL**.
-- 📫 Reach me anytime — links at the bottom.
 
 ---
 
@@ -76,72 +78,42 @@ class Sanskriti:
 ## 🍒 Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI-201 Coursework Series
-> 10+ hands-on AI/ML labs & projects — search, classification, and neural nets from the ground up.
-
-`Python` · `Jupyter` · `ML`
-
-[**→ View**](https://github.com/sans-2186?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 Trading Exchange Engine
-> A high-performance order-matching / exchange engine in C++ exploring quantitative systems and market microstructure.
-
-`C++` · `Systems`
-
-[**→ View**](https://github.com/sans-2186/Trading-Exchange-Engine)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🙂 ACM Facial Detection System
-> Real-time face detection built for ACM — computer vision in Python.
-
-`Python` · `OpenCV` · `CV`
-
-[**→ View**](https://github.com/sans-2186/ACM-Facial-Detection-System)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏃 Athlete Injury Prediction Model
-> Predicting athlete injury risk from performance data with ML.
-
-`Jupyter` · `ML` · `Data Science`
-
-[**→ View**](https://github.com/sans-2186/Athlete-Injury-Prediction-Model)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎬 Movie Review Sentiment Analysis
-> NLP app that classifies movie reviews as positive or negative.
-
-`Python` · `NLP` · `Jupyter`
-
-[**→ View**](https://github.com/sans-2186/Movies-Review-Sentimental-Analysis-App)
-
-</td>
-<td width="50%" valign="top">
-
-### 🖼️ Image Classification
-> Deep-learning image classifier trained end to end.
-
-`Jupyter` · `Deep Learning` · `CV`
-
-[**→ View**](https://github.com/sans-2186/Image-Classification)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/sans-2186?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=AI-201&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/sans-2186/Trading-Exchange-Engine">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=Trading-Exchange-Engine&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/sans-2186/ACM-Facial-Detection-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=ACM-Facial-Detection-System&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/sans-2186/Athlete-Injury-Prediction-Model">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=Athlete-Injury-Prediction-Model&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/sans-2186/Movies-Review-Sentimental-Analysis-App">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=Movies-Review-Sentimental-Analysis-App&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/sans-2186/Image-Classification">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=Image-Classification&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 <details>
@@ -151,21 +123,6 @@ class Sanskriti:
 
 - 🕳️ **[MIPS Black Hole Game](https://github.com/sans-2186/MIPS-Black-Hole-Game)** — a game written in MIPS assembly. Low-level, all the way down.
 - 🐾 **[WhiskerWorld — Where pets find love](https://github.com/sans-2186/WhiskerWorld-Where-pets-find-love)** — a pet-adoption platform built in Python.
-
-</details>
-
-<details>
-<summary><b>🎓 AI-201 Coursework — 5 projects & 6 labs in one repo</b></summary>
-<br/>
-
-All coursework lives in **[AI-201-Coursework](https://github.com/sans-2186/AI-201-Coursework)** as tidy subfolders:
-
-| | |
-|:--|:--|
-| **Projects** | [Unofficial Guide](https://github.com/sans-2186/AI-201-Coursework/tree/main/project1-unofficial-guide) · [FitFindr](https://github.com/sans-2186/AI-201-Coursework/tree/main/project2-fitfindr) · [TakeMeter](https://github.com/sans-2186/AI-201-Coursework/tree/main/project3-takemeter) · [Provenance Guard](https://github.com/sans-2186/AI-201-Coursework/tree/main/project4-provenance-guard) · [Mixtape](https://github.com/sans-2186/AI-201-Coursework/tree/main/project5-mixtape) |
-| **Labs** | [RulesBot](https://github.com/sans-2186/AI-201-Coursework/tree/main/lab1-rulesbot) · [PlantAdvisor](https://github.com/sans-2186/AI-201-Coursework/tree/main/lab2-plantadvisor) · [PodClassifier](https://github.com/sans-2186/AI-201-Coursework/tree/main/lab3-podclassifier) · [RepairSafe](https://github.com/sans-2186/AI-201-Coursework/tree/main/lab4-repairsafe) · [BookClub](https://github.com/sans-2186/AI-201-Coursework/tree/main/lab5-bookclub) · [GroceryList](https://github.com/sans-2186/AI-201-Coursework/tree/main/lab6-grocerylist) |
-
-Covers RAG, LLM agents, fine-tuning, AI-content detection, and full-stack AI apps.
 
 </details>
 
@@ -205,17 +162,17 @@ Built at **YHack** (Yale). A signal-driven app prototyped over the hackathon wee
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sans-2186&show_icons=true&count_private=true&hide_border=true&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sans-2186&layout=compact&hide_border=true&title_color=FF4D6D&text_color=c9d1d9&bg_color=0d1117" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sans-2186&hide_border=true&background=0d1117&stroke=30363d&ring=FF4D6D&fire=FF8FAB&currStreakLabel=FF4D6D&sideLabels=c9d1d9&currStreakNum=f0f6fc&sideNums=f0f6fc&dates=8b949e" />
+<!-- ✅ Use streak-stats.demolab.com — the old heroku URL is deprecated and won't render -->
+<img src="https://streak-stats.demolab.com?user=sans-2186&hide_border=true&background=0d1117&stroke=30363d&ring=FF4D6D&fire=FF8FAB&currStreakLabel=FF4D6D&sideLabels=c9d1d9&currStreakNum=f0f6fc&sideNums=f0f6fc&dates=8b949e" />
 
-<br/>
+<br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=sans-2186&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&title_color=FF4D6D" />
 
-<br/>
+<br/><br/>
 
-<!-- 📈 Contribution activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sans-2186&hide_border=true&area=true&bg_color=0d1117&color=FF4D6D&line=FF4D6D&point=FF8FAB&title_color=FF4D6D&custom_title=Contribution%20Graph" width="95%" />
 
 </div>
@@ -235,3 +192,8 @@ Built at **YHack** (Yale). A signal-driven app prototyped over the hackathon wee
 <i>🌸 "Turning data into decisions, one model at a time." 🌸</i>
 
 </div>
+
+<!-- ============ FOOTER BANNER ============ -->
+<p align="center">
+  <img src="github-footer-cherry-blossom.png" alt="🌸" width="100%" />
+</p>
