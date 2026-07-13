@@ -1,0 +1,16 @@
+<svg width="100%" viewBox="0 0 1200 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="90" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2563eb"/>
+      <stop offset="0.5" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#db2777"/>
+    </linearGradient>
+    <style>
+      .msg { font: 600 20px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #ffffff; }
+    </style>
+  </defs>
+  <rect width="1200" height="90" rx="18" fill="url(#bg)"/>
+  <circle cx="80" cy="70" r="45" fill="#ffffff" opacity="0.07"/>
+  <circle cx="1120" cy="20" r="55" fill="#ffffff" opacity="0.07"/>
+  <text x="600" y="53" text-anchor="middle" class="msg">Thanks for stopping by &#10024; Let&#8217;s build something great together</text>
+</svg>

@@ -1,0 +1,55 @@
+<svg width="100%" viewBox="0 0 1200 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="230" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2563eb"/>
+      <stop offset="0.5" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#db2777"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 54px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #ffffff; }
+      .subtitle { font: 500 21px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #e0e7ff; }
+      .tags { font: 600 16px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #ffffff; opacity: 0.85; }
+      .fade { animation: fadeIn 1.2s ease-in-out; }
+      @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="230" rx="18" fill="url(#bg)"/>
+
+  <!-- decorative circles -->
+  <circle cx="90" cy="40" r="70" fill="#ffffff" opacity="0.06"/>
+  <circle cx="1130" cy="200" r="100" fill="#ffffff" opacity="0.07"/>
+  <circle cx="1040" cy="45" r="34" fill="#ffffff" opacity="0.08"/>
+  <circle cx="200" cy="200" r="26" fill="#ffffff" opacity="0.08"/>
+  <!-- decorative neural-net motif -->
+  <g stroke="#ffffff" opacity="0.25" stroke-width="1.5">
+    <line x1="945" y1="115" x2="1005" y2="85"/>
+    <line x1="945" y1="115" x2="1005" y2="145"/>
+    <line x1="1005" y1="85" x2="1065" y2="115"/>
+    <line x1="1005" y1="145" x2="1065" y2="115"/>
+  </g>
+  <g fill="#ffffff" opacity="0.5">
+    <circle cx="945" cy="115" r="5"/>
+    <circle cx="1005" cy="85" r="5"/>
+    <circle cx="1005" cy="145" r="5"/>
+    <circle cx="1065" cy="115" r="5"/>
+  </g>
+  <g stroke="#ffffff" opacity="0.25" stroke-width="1.5">
+    <line x1="135" y1="115" x2="195" y2="85"/>
+    <line x1="135" y1="115" x2="195" y2="145"/>
+    <line x1="195" y1="85" x2="255" y2="115"/>
+    <line x1="195" y1="145" x2="255" y2="115"/>
+  </g>
+  <g fill="#ffffff" opacity="0.5">
+    <circle cx="135" cy="115" r="5"/>
+    <circle cx="195" cy="85" r="5"/>
+    <circle cx="195" cy="145" r="5"/>
+    <circle cx="255" cy="115" r="5"/>
+  </g>
+
+  <g class="fade">
+    <text x="600" y="105" text-anchor="middle" class="title">Sanskriti Tiwari</text>
+    <text x="600" y="145" text-anchor="middle" class="subtitle">B.S. Computer Science @ UT Dallas &#183; Machine Learning &amp; AI Engineer</text>
+    <text x="600" y="185" text-anchor="middle" class="tags">Computer Vision &#183; NLP &#183; Deep Learning &#183; Full-Stack AI</text>
+  </g>
+</svg>
