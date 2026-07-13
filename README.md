@@ -81,36 +81,36 @@ class Sanskriti:
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/sans-2186/AI-201-Coursework">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=AI-201-Coursework&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=AI-201-Coursework&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" />
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/sans-2186/Trading-Exchange-Engine">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=Trading-Exchange-Engine&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=Trading-Exchange-Engine&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/sans-2186/ACM-Facial-Detection-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=ACM-Facial-Detection-System&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=ACM-Facial-Detection-System&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" />
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/sans-2186/Athlete-Injury-Prediction-Model">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=Athlete-Injury-Prediction-Model&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=Athlete-Injury-Prediction-Model&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/sans-2186/Movies-Review-Sentimental-Analysis-App">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=Movies-Review-Sentimental-Analysis-App&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=Movies-Review-Sentimental-Analysis-App&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" />
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/sans-2186/Image-Classification">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=Image-Classification&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=Image-Classification&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" />
       </a>
     </td>
   </tr>
@@ -136,17 +136,17 @@ class Sanskriti:
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/sans-2186/YHack-26-Signal">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=YHack-26-Signal&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=YHack-26-Signal&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" />
       </a>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/sans-2186/GS-Hackathon-2026">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=GS-Hackathon-2026&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=GS-Hackathon-2026&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" />
       </a>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/sans-2186/UNT-NSBE-Hackathon-2025">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=UNT-NSBE-Hackathon-2025&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=UNT-NSBE-Hackathon-2025&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" />
       </a>
     </td>
   </tr>
@@ -158,12 +158,12 @@ class Sanskriti:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sans-2186&show_icons=true&count_private=true&hide_border=true&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sans-2186&layout=compact&hide_border=true&title_color=FF4D6D&text_color=c9d1d9&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sans-2186&show_icons=true&count_private=true&hide_border=true&cache_seconds=1800&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sans-2186&layout=compact&hide_border=true&cache_seconds=1800&title_color=FF4D6D&text_color=c9d1d9&bg_color=0d1117" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=sans-2186&hide_border=true&background=0d1117&stroke=30363d&ring=FF4D6D&fire=FF8FAB&currStreakLabel=FF4D6D&sideLabels=c9d1d9&currStreakNum=f0f6fc&sideNums=f0f6fc&dates=8b949e" />
+<img src="https://streak-stats.demolab.com?cache_seconds=1800&user=sans-2186&hide_border=true&cache_seconds=1800&background=0d1117&stroke=30363d&ring=FF4D6D&fire=FF8FAB&currStreakLabel=FF4D6D&sideLabels=c9d1d9&currStreakNum=f0f6fc&sideNums=f0f6fc&dates=8b949e" />
 
 <br/><br/>
 
@@ -171,7 +171,7 @@ class Sanskriti:
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sans-2186&hide_border=true&area=true&bg_color=0d1117&color=FF4D6D&line=FF4D6D&point=FF8FAB&title_color=FF4D6D&custom_title=Contribution%20Graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sans-2186&hide_border=true&cache_seconds=1800&area=true&bg_color=0d1117&color=FF4D6D&line=FF4D6D&point=FF8FAB&title_color=FF4D6D&custom_title=Contribution%20Graph" width="95%" />
 
 </div>
 
