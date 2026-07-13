@@ -154,6 +154,21 @@ class Sanskriti:
 
 </details>
 
+<details>
+<summary><b>🎓 AI-201 Coursework — 5 projects & 6 labs in one repo</b></summary>
+<br/>
+
+All coursework lives in **[AI-201-Coursework](https://github.com/sans-2186/AI-201-Coursework)** as tidy subfolders:
+
+| | |
+|:--|:--|
+| **Projects** | [Unofficial Guide](https://github.com/sans-2186/AI-201-Coursework/tree/main/project1-unofficial-guide) · [FitFindr](https://github.com/sans-2186/AI-201-Coursework/tree/main/project2-fitfindr) · [TakeMeter](https://github.com/sans-2186/AI-201-Coursework/tree/main/project3-takemeter) · [Provenance Guard](https://github.com/sans-2186/AI-201-Coursework/tree/main/project4-provenance-guard) · [Mixtape](https://github.com/sans-2186/AI-201-Coursework/tree/main/project5-mixtape) |
+| **Labs** | [RulesBot](https://github.com/sans-2186/AI-201-Coursework/tree/main/lab1-rulesbot) · [PlantAdvisor](https://github.com/sans-2186/AI-201-Coursework/tree/main/lab2-plantadvisor) · [PodClassifier](https://github.com/sans-2186/AI-201-Coursework/tree/main/lab3-podclassifier) · [RepairSafe](https://github.com/sans-2186/AI-201-Coursework/tree/main/lab4-repairsafe) · [BookClub](https://github.com/sans-2186/AI-201-Coursework/tree/main/lab5-bookclub) · [GroceryList](https://github.com/sans-2186/AI-201-Coursework/tree/main/lab6-grocerylist) |
+
+Covers RAG, LLM agents, fine-tuning, AI-content detection, and full-stack AI apps.
+
+</details>
+
 ---
 
 ## 🏆 Hackathons
