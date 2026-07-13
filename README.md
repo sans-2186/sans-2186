@@ -1,171 +1,136 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=175&section=header&text=Sanskriti%20Tiwari&fontSize=42&fontColor=c9d1d9&animation=fadeIn&fontAlignY=40&desc=CS%20%40%20UT%20Dallas%20%7C%20ML%20%26%20AI%20Engineer&descAlignY=60&descSize=15&descColor=8b949e"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:7c3aed,100:db2777&height=190&section=header&text=Sanskriti%20Tiwari&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20%40%20UT%20Dallas%20%C2%B7%20Machine%20Learning%20%26%20AI%20Engineer&descAlignY=58&descSize=17&descColor=e0e7ff"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=800&color=7C3AED&center=true&vCenter=true&width=620&lines=Machine+Learning+%C2%B7+Computer+Vision+%C2%B7+NLP;Real-time+face+detection+systems;ML+models+that+predict+athlete+injuries;Full-stack+AI+apps+with+FastAPI+%2B+React;Built+a+playable+game+in+MIPS+Assembly)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=58a6ff&center=true&vCenter=true&width=560&lines=Diving+deep+into+Computer+Vision;Training+neural+nets+at+300m+depth;Surfacing+insights+from+raw+data;Real-time+face+detection%2C+real-time+impact;Yes+I+coded+a+game+in+MIPS+Assembly)](https://git.io/typing-svg)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sanskriti--tiwari.com-2563eb?style=for-the-badge&logoColor=white)](https://www.sanskriti-tiwari.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskriti-tiwari-ab300030b/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanskriti_tiwari2186@hotmail.com)
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=sans-2186&label=profile+views&color=21262d&style=flat-square&labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=sans-2186&label=profile+views&color=7c3aed&style=flat-square"/>
 
 </div>
 
-<img src="https://img.shields.io/badge/━━━━━━_Diver's_Log_━━━━━━-161b22?style=flat-square&labelColor=0d1117&color=21262d" width="100%"/>
+## 🚀 At a Glance
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🤿 Diver's Log
+<td width="55%" valign="top">
 
 ```python
 class Sanskriti:
-    coordinates = "University of Texas at Dallas 🤠"
-    mission     = "Aspiring ML / AI Engineer"
-    sonar_ping  = ["Computer Vision", "NLP",
-                   "Predictive Modeling", "Deep Learning"]
-    exploring   = ["Transformers", "Diffusion Models", "MLOps"]
-    legendary   = "Built a fully playable game in MIPS Assembly 🕹️"
+    education  = "B.S. Computer Science @ UT Dallas 🎓"
+    role       = "Aspiring ML / AI Engineer"
+    focus      = ["Computer Vision", "NLP",
+                  "Deep Learning", "Predictive Modeling"]
+    learning   = ["Transformers", "Diffusion Models", "MLOps"]
+    fun_fact   = "Built a fully playable game in MIPS Assembly 🕹️"
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### 🧭 Coordinates
+### ⚡ Quick Highlights
 
-| | |
-|:--|:--|
-| 🎓 | CS @ UT Dallas |
-| 🎯 | ML / AI Engineer |
-| 🔭 | Computer Vision · NLP · Deep Learning |
-| 🏅 | MIPS Assembly game dev |
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-sanskriti--tiwari.com-21262d?style=for-the-badge&logo=vercel&logoColor=58a6ff&labelColor=0d1117)](https://www.sanskriti-tiwari.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-21262d?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117)](https://www.linkedin.com/in/sanskriti-tiwari-ab300030b/)
-[![Email](https://img.shields.io/badge/Email-Me-21262d?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=0d1117)](mailto:sanskriti_tiwari2186@hotmail.com)
+- 🎓 **Computer Science** @ University of Texas at Dallas
+- 🤖 **10+ projects** across ML, CV, NLP & full-stack
+- 👁️ Built a **real-time facial recognition** attendance system
+- 🏆 Hackathon builder — **YHack, Goldman Sachs, NSBE**
+- 🕹️ Wrote a **playable game in pure MIPS Assembly**
 
 </td>
 </tr>
 </table>
 
-<img src="https://img.shields.io/badge/━━━━━━_Tech_Reef_━━━━━━-161b22?style=flat-square&labelColor=0d1117&color=21262d" width="100%"/>
+## 🛠️ Skills & Tech Stack
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,numpy,js,nodejs,html,sqlite,git,linux&theme=dark)](https://skillicons.dev)
-
-<br/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0d1117"/>
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,java,js,react,nextjs,nodejs,fastapi,mysql,sqlite,html,css,git,linux&perline=9)](https://skillicons.dev)
 
 </div>
 
-<img src="https://img.shields.io/badge/━━━━━━_Activity_Dashboard_━━━━━━-161b22?style=flat-square&labelColor=0d1117&color=21262d" width="100%"/>
+| Category | Technologies |
+|:--|:--|
+| 🧠 **Machine Learning & AI** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) |
+| 👁️ **Computer Vision & NLP** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| 🌐 **Web & App Development** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| 🗄️ **Languages & Databases** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MIPS](https://img.shields.io/badge/MIPS_Assembly-CC0000?style=flat-square&logo=assemblyscript&logoColor=white) |
+| 🔧 **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+
+## 🌟 Featured Projects
 
 <div align="center">
 
-<sub>Live GitHub data · click any card to open my profile · matches the contribution graph above ↗</sub>
+<a href="https://github.com/sans-2186/ACM-Facial-Detection-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=ACM-Facial-Detection-System&theme=tokyonight&hide_border=true" alt="ACM Facial Detection System"/>
+</a>
+<a href="https://github.com/sans-2186/Athlete-Injury-Prediction-Model">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=Athlete-Injury-Prediction-Model&theme=tokyonight&hide_border=true" alt="Athlete Injury Prediction Model"/>
+</a>
+
+<a href="https://github.com/sans-2186/YHack-26-Signal">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=YHack-26-Signal&theme=tokyonight&hide_border=true" alt="Signal — AI Investment Intelligence"/>
+</a>
+<a href="https://github.com/sans-2186/MIPS-Black-Hole-Game">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=MIPS-Black-Hole-Game&theme=tokyonight&hide_border=true" alt="MIPS Black Hole Game"/>
+</a>
 
 </div>
 
-<!-- Dashboard row 1 — GitHub-native dark cards -->
+### 📂 All Projects
+
+| Project | What it does | Built with |
+|:--|:--|:--|
+| 🎭 [**ACM Facial Detection**](https://github.com/sans-2186/ACM-Facial-Detection-System) | Real-time face recognition + automated attendance | `Python` `OpenCV` `Node.js` |
+| 🏃 [**Athlete Injury Prediction**](https://github.com/sans-2186/Athlete-Injury-Prediction-Model) | ML model forecasting athlete injury risk | `Python` `scikit-learn` |
+| 📡 [**Signal**](https://github.com/sans-2186/YHack-26-Signal) | AI-powered investment intelligence dashboard (YHack) | `FastAPI` `React` |
+| 🖼️ [**Image Classification**](https://github.com/sans-2186/Image-Classification) | CNN classifying MNIST handwritten digits | `TensorFlow` `Keras` |
+| 🌲 [**StockQuest**](https://github.com/sans-2186/GS-Hackathon-2026) | Forest-adventure investing game (Goldman Sachs Hackathon) | `Next.js` `Claude AI` |
+| 🎬 [**Movie Sentiment Analysis**](https://github.com/sans-2186/Movies-Review-Sentimental-Analysis-App) | NLP engine for movie review sentiment | `NLTK` `scikit-learn` |
+| ✈️ [**Airline Fare Calculator**](https://github.com/sans-2186/Airline-fare-calculator) | OOP ticketing system with seat maps | `Java` |
+| 🌍 [**Wellness Dashboard**](https://github.com/sans-2186/UNT-NSBE-Hackathon-2025) | Global health data explorer (NSBE Hackathon) | `Streamlit` `Plotly` |
+| 🐾 [**WhiskerWorld**](https://github.com/sans-2186/WhiskerWorld-Where-pets-find-love) | Pet adoption platform | `Python` `MySQL` |
+| 🕹️ [**MIPS Black Hole Game**](https://github.com/sans-2186/MIPS-Black-Hole-Game) | Fully playable game written in pure Assembly | `MIPS` |
+| 🌐 [**Portfolio Website**](https://github.com/sans-2186/sanskriti-portfolio) | Personal portfolio + mentor curriculum | `React` `HTML` `CSS` |
+
+## 📊 GitHub Analytics
+
 <p align="center">
   <a href="https://github.com/sans-2186">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-2186&theme=github_dark" alt="Profile details" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=sans-2186&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" height="180"/>
   </a>
   <a href="https://github.com/sans-2186">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sans-2186&theme=github_dark" alt="GitHub stats" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sans-2186&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="180"/>
   </a>
 </p>
 
-<!-- Dashboard row 2 -->
 <p align="center">
-  <a href="https://github.com/sans-2186?tab=repositories">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sans-2186&theme=github_dark" alt="Languages by repo" height="180"/>
-  </a>
   <a href="https://github.com/sans-2186">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sans-2186&theme=github_dark&utm_medium=social&utm_source=readme" alt="Productive time" height="180"/>
+    <img src="https://streak-stats.demolab.com?user=sans-2186&theme=tokyonight&hide_border=true" alt="GitHub streak" height="180"/>
   </a>
 </p>
 
-<!-- Streak — GitHub green palette to match contribution squares -->
 <p align="center">
   <a href="https://github.com/sans-2186">
-    <img src="https://streak-stats.demolab.com?user=sans-2186&hide_border=true&background=0D1117&ring=39D353&fire=26A641&currStreakLabel=8B949E&sideNums=C9D1D9&sideLabels=8B949E&dates=484F58" alt="GitHub streak" height="170"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sans-2186&theme=tokyo-night&hide_border=true&height=300&custom_title=Contribution+Activity&area=true" alt="Contribution activity over time"/>
   </a>
 </p>
-
-<!-- Activity line chart — github-compact theme matches native graph styling -->
-<p align="center">
-  <a href="https://github.com/sans-2186">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sans-2186&theme=github-compact&hide_border=true&height=300&custom_title=Contribution+Activity&area=true" alt="Contribution activity over time"/>
-  </a>
-</p>
-
-<img src="https://img.shields.io/badge/━━━━━━_Expedition_Map_━━━━━━-161b22?style=flat-square&labelColor=0d1117&color=21262d" width="100%"/>
 
 <div align="center">
 
-<sub>Click a depth zone to expand · each expedition links to its repo</sub>
-
-</div>
-
-<br/>
-
-<details open>
-<summary><b>🌑 Hadal Zone · 400m+</b></summary>
-<br/>
-
-| Depth | Expedition | Sonar Reading | Stack |
-|:-----:|:-----------|:--------------|:------|
-| 500m | [**🎭 ACM Facial Detection**](https://github.com/sans-2186/ACM-Facial-Detection-System) | Real-time face recognition + attendance | Python · OpenCV · Node.js |
-| 400m | [**🏃 Athlete Injury Prediction**](https://github.com/sans-2186/Athlete-Injury-Prediction-Model) | ML injury risk forecasting | Python · scikit-learn |
-
-</details>
-
-<details>
-<summary><b>🌊 Abyssal Zone · 200–399m</b></summary>
-<br/>
-
-| Depth | Expedition | Sonar Reading | Stack |
-|:-----:|:-----------|:--------------|:------|
-| 350m | [**📡 Signal**](https://github.com/sans-2186/YHack-26-Signal) | AI investment intelligence dashboard | FastAPI · React |
-| 300m | [**🖼️ Image Classification**](https://github.com/sans-2186/Image-Classification) | CNN on MNIST digits | TensorFlow · Keras |
-| 250m | [**🌲 StockQuest**](https://github.com/sans-2186/GS-Hackathon-2026) | Forest-adventure investing game | Next.js · Claude AI |
-| 200m | [**🎬 Movie Sentiment**](https://github.com/sans-2186/Movies-Review-Sentimental-Analysis-App) | Review sentiment NLP engine | NLTK · scikit-learn |
-
-</details>
-
-<details>
-<summary><b>🐚 Continental Shelf · 30–199m</b></summary>
-<br/>
-
-| Depth | Expedition | Sonar Reading | Stack |
-|:-----:|:-----------|:--------------|:------|
-| 180m | [**✈️ Airline Calculator**](https://github.com/sans-2186/Airline-fare-calculator) | OOP ticketing + seat maps | Java |
-| 160m | [**🌍 Wellness Dashboard**](https://github.com/sans-2186/UNT-NSBE-Hackathon-2025) | Global health data explorer | Streamlit · Plotly |
-| 100m | [**🐾 WhiskerWorld**](https://github.com/sans-2186/WhiskerWorld-Where-pets-find-love) | Pet adoption platform | Python · MySQL |
-| 50m | [**🕹️ MIPS Black Hole**](https://github.com/sans-2186/MIPS-Black-Hole-Game) | Playable game in pure Assembly | MIPS |
-| 30m | [**🌐 Portfolio**](https://github.com/sans-2186/sanskriti-portfolio) | React portfolio + mentor curriculum | React · HTML · CSS |
-
-</details>
-
-<img src="https://img.shields.io/badge/━━━━━━_Surface_Transmission_━━━━━━-161b22?style=flat-square&labelColor=0d1117&color=21262d" width="100%"/>
-
-<div align="center">
+## 🤝 Let's Connect
 
 *"The goal is to turn data into information, and information into insight."*
 
 <br/>
 
-**Thanks for diving in** · [View my repositories →](https://github.com/sans-2186?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-2563eb?style=for-the-badge)](https://www.sanskriti-tiwari.com/)
+[![Repositories](https://img.shields.io/badge/📂_View_All_Repositories-7c3aed?style=for-the-badge)](https://github.com/sans-2186?tab=repositories)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:7c3aed,100:db2777&height=110&section=footer"/>
 
 </div>
