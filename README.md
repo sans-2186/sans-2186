@@ -77,40 +77,62 @@ class Sanskriti:
 
 ## 🍒 Featured Projects
 
+<!-- Text list always visible even if pin images fail to load -->
+- 📈 **[Mercury Exchange Engine](https://github.com/sans-2186/Trading-Exchange-Engine)** — low-latency C++20 matching engine (order book, benchmarks, 46 tests)
+- 📡 **[Signal — AI Investment Intelligence](https://github.com/sans-2186/YHack-26-Signal)** — full-stack market intelligence (FastAPI + Next.js + 4-pillar scoring)
+- 🎮 **[StockQuest](https://github.com/sans-2186/GS-Hackathon-2026)** — real-time market simulation / investing game
+- 🏃 **[Athlete Injury Prediction](https://github.com/sans-2186/Athlete-Injury-Prediction-Model)** — injury-risk ML model (92.5% accuracy, 1.00 recall)
+- 🙂 **[ACM Facial Detection](https://github.com/sans-2186/ACM-Facial-Detection-System)** — real-time face recognition + attendance dashboard
+- 🤖 **[AI-201 Coursework](https://github.com/sans-2186/AI-201-Coursework)** — 5 projects & 6 labs (RAG, LLM agents, fine-tuning)
+- 🎬 **[Movie Review Sentiment](https://github.com/sans-2186/Movies-Review-Sentimental-Analysis-App)** — NLP positive / negative classifier
+- 🖼️ **[Image Classification](https://github.com/sans-2186/Image-Classification)** — end-to-end deep-learning image classifier
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/sans-2186/AI-201-Coursework">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=AI-201-Coursework&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" />
+      <a href="https://github.com/sans-2186/Trading-Exchange-Engine">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=Trading-Exchange-Engine&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="Trading-Exchange-Engine" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/sans-2186/Trading-Exchange-Engine">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=Trading-Exchange-Engine&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" />
+      <a href="https://github.com/sans-2186/YHack-26-Signal">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=YHack-26-Signal&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="YHack-26-Signal" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/sans-2186/GS-Hackathon-2026">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=GS-Hackathon-2026&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="GS-Hackathon-2026" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/sans-2186/Athlete-Injury-Prediction-Model">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=Athlete-Injury-Prediction-Model&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="Athlete-Injury-Prediction-Model" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/sans-2186/ACM-Facial-Detection-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=ACM-Facial-Detection-System&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=ACM-Facial-Detection-System&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="ACM-Facial-Detection-System" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/sans-2186/Athlete-Injury-Prediction-Model">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=Athlete-Injury-Prediction-Model&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" />
+      <a href="https://github.com/sans-2186/AI-201-Coursework">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=AI-201-Coursework&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="AI-201-Coursework" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/sans-2186/Movies-Review-Sentimental-Analysis-App">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=Movies-Review-Sentimental-Analysis-App&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=Movies-Review-Sentimental-Analysis-App&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="Movies-Review-Sentimental-Analysis-App" />
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/sans-2186/Image-Classification">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=Image-Classification&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=Image-Classification&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="Image-Classification" />
       </a>
     </td>
   </tr>
@@ -124,7 +146,22 @@ class Sanskriti:
 - 🕳️ **[MIPS Black Hole Game](https://github.com/sans-2186/MIPS-Black-Hole-Game)** — a game written in MIPS assembly. Low-level, all the way down.
 - 🐾 **[WhiskerWorld — Where pets find love](https://github.com/sans-2186/WhiskerWorld-Where-pets-find-love)** — a pet-adoption platform built in Python.
 - ✈️ **[Airline Fare Calculator](https://github.com/sans-2186/Airline-fare-calculator)** — fare-computation utility.
-- 🌐 **[Portfolio Site](https://github.com/sans-2186/sanskriti-portfolio)** — my personal portfolio.
+- 🌐 **[Portfolio Site](https://www.sanskriti-tiwari.com/)** — my personal portfolio.
+
+</details>
+
+<details>
+<summary><b>🎓 AI-201 Coursework — 5 projects & 6 labs in one repo</b></summary>
+<br/>
+
+All coursework lives in **[AI-201-Coursework](https://github.com/sans-2186/AI-201-Coursework)** as tidy subfolders:
+
+| | |
+|:--|:--|
+| **Projects** | [Unofficial Guide](https://github.com/sans-2186/AI-201-Coursework/tree/main/project1-unofficial-guide) · [FitFindr](https://github.com/sans-2186/AI-201-Coursework/tree/main/project2-fitfindr) · [TakeMeter](https://github.com/sans-2186/AI-201-Coursework/tree/main/project3-takemeter) · [Provenance Guard](https://github.com/sans-2186/AI-201-Coursework/tree/main/project4-provenance-guard) · [Mixtape](https://github.com/sans-2186/AI-201-Coursework/tree/main/project5-mixtape) |
+| **Labs** | [RulesBot](https://github.com/sans-2186/AI-201-Coursework/tree/main/lab1-rulesbot) · [PlantAdvisor](https://github.com/sans-2186/AI-201-Coursework/tree/main/lab2-plantadvisor) · [PodClassifier](https://github.com/sans-2186/AI-201-Coursework/tree/main/lab3-podclassifier) · [RepairSafe](https://github.com/sans-2186/AI-201-Coursework/tree/main/lab4-repairsafe) · [BookClub](https://github.com/sans-2186/AI-201-Coursework/tree/main/lab5-bookclub) · [GroceryList](https://github.com/sans-2186/AI-201-Coursework/tree/main/lab6-grocerylist) |
+
+Covers RAG, LLM agents, fine-tuning, AI-content detection, and full-stack AI apps.
 
 </details>
 
@@ -132,21 +169,25 @@ class Sanskriti:
 
 ## 🏆 Hackathons
 
+- 📡 **[YHack 2026 — Signal](https://github.com/sans-2186/YHack-26-Signal)** — Top 10 / 40+ teams · 650+ participants · AI investment intelligence
+- 💼 **[Goldman Sachs Hackathon 2026 — StockQuest](https://github.com/sans-2186/GS-Hackathon-2026)** — real-time market simulation / investing game
+- ⚙️ **[UNT NSBE Hackathon 2025](https://github.com/sans-2186/UNT-NSBE-Hackathon-2025)** — collaborative engineering under time pressure
+
 <table>
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/sans-2186/YHack-26-Signal">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=YHack-26-Signal&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=YHack-26-Signal&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="YHack-26-Signal" />
       </a>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/sans-2186/GS-Hackathon-2026">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=GS-Hackathon-2026&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=GS-Hackathon-2026&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="GS-Hackathon-2026" />
       </a>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/sans-2186/UNT-NSBE-Hackathon-2025">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=UNT-NSBE-Hackathon-2025&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sans-2186&repo=UNT-NSBE-Hackathon-2025&title_color=FF4D6D&icon_color=FF8FAB&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="UNT-NSBE-Hackathon-2025" />
       </a>
     </td>
   </tr>
@@ -163,7 +204,7 @@ class Sanskriti:
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?cache_seconds=1800&user=sans-2186&hide_border=true&cache_seconds=1800&background=0d1117&stroke=30363d&ring=FF4D6D&fire=FF8FAB&currStreakLabel=FF4D6D&sideLabels=c9d1d9&currStreakNum=f0f6fc&sideNums=f0f6fc&dates=8b949e" />
+<img src="https://streak-stats.demolab.com/?user=sans-2186&hide_border=true&cache_seconds=1800&background=0d1117&stroke=30363d&ring=FF4D6D&fire=FF8FAB&currStreakLabel=FF4D6D&sideLabels=c9d1d9&currStreakNum=f0f6fc&sideNums=f0f6fc&dates=8b949e" />
 
 <br/><br/>
 
@@ -193,5 +234,5 @@ class Sanskriti:
 
 <!-- ============ FOOTER BANNER ============ -->
 <p align="center">
-  <img src="assets/github-footer-cherry-blossom.png" alt="🌸" width="100%" />
+  <img src="assets/github-footer-cherry-blossom.png" alt="Thanks for visiting 🌸" width="100%" />
 </p>
